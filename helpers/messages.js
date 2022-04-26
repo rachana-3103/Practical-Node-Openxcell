@@ -1,0 +1,13 @@
+exports.USER_NOT_EMPTY="Username can not be empty";
+exports.USER_NOT_FOUND="User not found";
+exports.INVALID_UNAME_PWORD= "Invalid Username Password";
+exports.USER_NOT_AUTHORIZED = "User Not Authorized";
+exports.NO_TOKEN_PROVIDED = "No Token Provided";
+exports.TOKEN_EXPIRED = "Token Expired";
+exports.TOPIC_NOT_FOUND = "Topic Not Found";
+exports.POST_NOT_FOUND = "Post Not Found";
+exports.EMAIL_IS_EMPTY = "Email is Empty";
+exports.PASSWORD_IS_EMPTY = "Password is Empty";
+exports.TOPIC_IS_EMPTY = "Topic is Empty";
+exports.TITLE_IS_EMPTY = "Title is Empty";
+exports.COMMENT_IS_EMPTY = "Comment is Empty";
